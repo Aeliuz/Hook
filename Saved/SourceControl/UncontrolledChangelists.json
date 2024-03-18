@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal/Projects/Hook/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Unreal/Projects/Hook/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Unreal/Projects/Hook/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/DC/YEQXEEO1KA9QGKLDKKTXKD.uasset",
+				"C:/Unreal/Projects/Hook/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/W4/WDCX0ZK0GVWN32275AAW0K.uasset",
+				"C:/Unreal/Projects/Hook/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/WU/YSK6AXEJIDSBHL7QLG1QYS.uasset",
+				"C:/Unreal/Projects/Hook/Content/Materials/M_Crosshair.uasset",
+				"C:/Unreal/Projects/Hook/Content/Blueprints/WBP_PlayerHUD.uasset",
+				"C:/Unreal/Projects/Hook/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Unreal/Projects/Hook/Content/Materials/Transparent.uasset"
+			]
+		}
+	]
+}
